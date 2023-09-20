@@ -1,0 +1,28 @@
+.prvok {
+    width: 10%;
+    white-space: pre;
+    
+}
+.tabulka {
+    width: 30%;
+}
+
+.prvokexp {
+    width: 5%;
+    white-space: nowrap;
+}
+.Nadpis {
+    margin-bottom: 2%;
+    margin-top: 2%;
+    
+}
+.NadpisDatum {
+    float: right;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+.Nadpis1 {
+    text-align: center;
+    margin-bottom: 3%;
+    margin-top: 2%;
+}

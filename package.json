@@ -1,0 +1,55 @@
+{
+  "name": "storage-master",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.5.0",
+    "bootstrap-icons": "^1.1.0",
+    "firebase": "^8.1.2",
+    "moment": "^2.29.1",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-bootstrap-typeahead": "^5.1.2",
+    "react-datepicker": "^3.3.0",
+    "react-day-picker": "^7.4.8",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "react-moment": "^1.0.0",
+    "react-redux": "^7.2.2",
+    "react-redux-firebase": "^3.8.1",
+    "react-responsive": "^8.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^5.0.1",
+    "react-select-search": "^2.2.3",
+    "redux": "^4.0.5",
+    "redux-firestore": "^2.0.1",
+    "redux-thunk": "^2.3.0",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
